@@ -1,0 +1,7 @@
+const STATUSCODE = {
+  OK: 200,
+  CREATED: 201,
+  REDIRECTION: 302,
+  BADREQUEST: 400,
+};
+module.exports = STATUSCODE;
